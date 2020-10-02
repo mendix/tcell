@@ -1,4 +1,4 @@
-module github.com/gdamore/tcell
+module gitlab.rnd.mendix.com/digital_ecosystems/tcell
 
 go 1.12
 
